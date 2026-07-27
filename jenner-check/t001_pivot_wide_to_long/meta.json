@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_pivot_wide_to_long",
+  "source_file": "utl-pivot-text-file-wide-to-long-using-sas-infile-and-r.sas",
+  "source_blob_sha": "d403ebc2e4b75a917186ab820f3083d11af5e10d",
+  "source_commit": "b57f503adecb9bac732ccfa4f1dfb7b9bc27e89d",
+  "notes": "SAS INFILE/INPUT solution that pivots a wide fixed-width text block to a long dataset: tranwrd converts embedded \\n to commas, then a do-loop with countc/scan/select splits g#:id groups into 15 rows (group/code/idi/idg). Extracted verbatim from the boxed SAS solution in the .sas file; inline cards4 data, no external deps. autoexec adds only options obs=100."
+}

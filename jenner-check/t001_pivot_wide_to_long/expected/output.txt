@@ -1,0 +1,20 @@
+
+  Obs  group  code   idi  idg
+-----  -----  ----  ----  ---
+    1  A      101   id1   g1
+    2  A      101   id2   g1
+    3  A      101   id3   g1
+    4  A      101   id4   g2
+    5  A      101   id5   g2
+    6  B      102   id6   NA
+    7  B      102   id7   NA
+    8  B      102   id8   NA
+    9  B      102   id9   NA
+   10  C      103   id10  g1
+   11  C      103   id11  g1
+   12  C      103   id12  g3
+   13  D      104   id13  g2
+   14  D      104   id14  g2
+   15  E      105   id15  NA
+
+
